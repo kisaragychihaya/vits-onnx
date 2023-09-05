@@ -1,0 +1,4 @@
+依赖
+onnxruntime 运行时
+scipy 快速保存音频用
+pyyaml 配置文件读取
